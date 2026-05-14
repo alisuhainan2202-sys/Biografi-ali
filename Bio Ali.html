@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hinz Store</title>
+    <link rel="stylesheet" href="hinz_store.css">
+</head>
+<body>
+    <h2 align="center">Muhammad Ali Suhainan</h2>
+    <img srcset="file/Screenshot_14-5-2026_232549_www.instagram.com.jpeg"alt="Hainan Pict" width="200" style="display: block; margin:auto;">
+    <ol type="1">
+        <li>
+            <h4>Biografi</h4>
+          <p>Muhammad Ali Suhainan atau Hainan adalah pelajar yang tertarik di bidang teknologi dan kreatif. Hobi utamanya coding, editing video, bermain voli, serta aktif dalam kegiatan pramuka.Hainan dikenal santai, humoris kalau sudah akrab, tapi tetap tegas dan punya semangat belajar tinggi untuk meraih cita-cita di dunia IT.
+            <br>
+          </p>
+        </li>
+        <hr>
+        <li>
+            <h4>Pendidikan</h4>
+            <ul type="disc">
+                <li>SD Negri 3 Banyumudal</li>
+                <li>Mts Ihsaniyah Banyumudal</li>
+                <li>MA Modern Alfaqih Sima</li>
+            </ul>
+        <li>
+            <h4>Prestasi</h4>
+            <ul type="disc">
+                <li>Juara 3 Lomba Gerak Jalan Kec.Moga Thn 2023</li>
+                <li>Juara 2 Lomba Gerak Jalan Kec.Moga Thn 2024</li>
+                <li>Peserta Paskibra Kec.Moga 2025</li>
+                <li>Danton Paskibra Hari Santri Kec.Moga 2025</li>
+                <li>Juara Harapan 3 Lomba Reportase Festifal Sako Maarif Nu Cabang Pemalang 2025 Sebagai <i>editor</i></li>
+
+            </ul>
+        </li>
+
+        <li>
+            <h4>Media Sosial</h4>
+            instagram : <a href="https://www.instagram.com/suhnnan/">Instagram Muhammad Ali Suhainan</a> <br>
+            Tiktok : <a href="https://www.tiktok.com/@pilus_dadali">Tiktok Muhammad Ali Suhainan </a>
+        </li>
+
+        </li>
+        <li>
+            <h4>Musik Faforit</h4>
+            <p>
+                Tunggu Apalagi <cite>Nyoman Paul</cite>
+
+            </p>
+        <audio src="file/tiktok_music_7412227748472655110.mp3"controls loop ></audio>
+        </li>
+
+        <li>
+            <h4>Hasil Kreasi Editanya</h4>
+        <video src="file/tiktok_nwm_7635530006990507271.mp4"controls loop height="300px"></video>
+        </li>
+
+    </ol>
+
+</body>
+</html>
